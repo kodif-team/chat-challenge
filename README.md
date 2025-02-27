@@ -105,4 +105,4 @@ A successful solution should:
 ## Submitting your solution
 
 1. Zip up your solution as a zip file containing the entire project directory.
-2. Email the zip file as an attachment in reply to the email your received from us with the instructions.
+2. Submit your solution as a ZIP file via the link in the email you received.
